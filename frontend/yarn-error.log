@@ -1,0 +1,70 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Soukhin Nayek\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @web3uikit/core @web3uikit/web3 @web3uikit/icons
+
+PATH: 
+  C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Anaconda3\bin;C:\ProgramData\Anaconda3\condabin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\MATLAB\R2022a\bin;.;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Scripts;C:\Program Files\OpenSSL-Win64\bin;C:\Users\Soukhin Nayek\AppData\Local\Microsoft\WindowsApps;C:\Users\Soukhin Nayek\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Soukhin Nayek\AppData\Roaming\npm;C:\Users\Soukhin Nayek\AppData\Local\GitHubDesktop\bin;C:\Users\Soukhin Nayek\AppData\Local\Programs\MiKTeX\miktex\bin\x64;C:\Program Files\JetBrains\PyCharm Community Edition 2022.3.2\bin;.;.
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.15.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: read ECONNRESET
+      at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+
+npm manifest: 
+  {
+    "name": "solana-dapp-next",
+    "version": "0.1.0",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    },
+    "dependencies": {
+      "@emotion/react": "^11.10.5",
+      "@emotion/styled": "^11.10.5",
+      "@heroicons/react": "^1.0.5",
+      "@metaplex-foundation/js": "^0.15.0",
+      "@mui/material": "^5.11.3",
+      "@solana/wallet-adapter-base": "^0.9.22",
+      "@solana/wallet-adapter-react": "^0.15.3",
+      "@solana/wallet-adapter-react-ui": "^0.9.29",
+      "@solana/wallet-adapter-wallets": "^0.15.3",
+      "@solana/web3.js": "^1.73.3",
+      "@tailwindcss/typography": "^0.5.9",
+      "daisyui": "^1.24.3",
+      "immer": "^9.0.12",
+      "next": "12.0.8",
+      "next-compose-plugins": "^2.2.1",
+      "next-transpile-modules": "^9.0.0",
+      "react": "17.0.2",
+      "react-dom": "17.0.2",
+      "typewriter-effect": "^2.19.0",
+      "zustand": "^3.6.9"
+    },
+    "devDependencies": {
+      "@types/node": "17.0.10",
+      "@types/react": "17.0.38",
+      "autoprefixer": "^10.4.2",
+      "eslint": "8.7.0",
+      "eslint-config-next": "12.0.8",
+      "postcss": "^8.4.5",
+      "tailwindcss": "^3.0.15",
+      "typescript": "4.5.4"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

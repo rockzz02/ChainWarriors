@@ -22,7 +22,6 @@ Huge Shoutout to [Matt Durkin](https://twitter.com/mdurkin92) for his help on th
   - [Typescript](#typescript)
 - [Usage](#usage)
   - [Testing](#testing)
-- [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
 - [Thank you!](#thank-you)
 
 

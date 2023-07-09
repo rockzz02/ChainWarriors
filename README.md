@@ -11,8 +11,6 @@
 
 This is a repo showing how to make an NFT Marketplace from scratch!
 
-Huge Shoutout to [Matt Durkin](https://twitter.com/mdurkin92) for his help on this repo!
-
 [Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
 - [Hardhat NFT Marketplace](#hardhat-nft-marketplace)

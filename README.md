@@ -11,8 +11,6 @@
 
 This is a repo showing how to make an NFT Marketplace from scratch!
 
-[Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-
 - [Hardhat NFT Marketplace](#hardhat-nft-marketplace)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
@@ -41,9 +39,9 @@ This is a repo showing how to make an NFT Marketplace from scratch!
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nextjs-nft-marketplace-fcc
-cd hardhat-nextjs-nft-marketplace-fcc
-yarn
+git clone [https://github.com/RajarshiKGP/ChainWarriors.git]
+cd Chainwarriors
+yarn install
 ```
 
 ## Typescript

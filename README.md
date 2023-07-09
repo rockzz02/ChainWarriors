@@ -39,7 +39,7 @@ This is a repo showing how to make an NFT Marketplace from scratch!
 ## Quickstart
 
 ```
-git clone [https://github.com/RajarshiKGP/ChainWarriors.git]
+git clone https://github.com/RajarshiKGP/ChainWarriors.git
 cd Chainwarriors
 yarn install
 ```
